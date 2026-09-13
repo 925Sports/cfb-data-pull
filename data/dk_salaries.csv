@@ -1,519 +1,443 @@
 player_name,salary,position,team,game,slate_type,player_image,player_id,draftable_id,game_start,updated_at
-Devon Dampier,11800,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1442304,44095419,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Micah Alejado,11400,QB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509399,44095571,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Arch Manning,10200,QB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1441363,44095717,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Julian Sayin,10000,QB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1508833,44095718,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Byrd Ficklin,9800,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582977,44095420,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Jeremiah Smith,9400,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1508831,44095719,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-KJ Jackson,9400,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506081,44095421,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Bjorn Jurgensen,9400,QB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1583196,44095572,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Jayden Maiava,9000,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1398514,44082663,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Trey Hedden,9000,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1517362,44095573,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Bo Jackson,8800,RB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1583952,44095720,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Wayshawn Parker,8800,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1506517,44095422,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Pofele Ashlock,8600,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1400528,44095574,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Karle Lacey Jr.,8400,QB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1582500,44095721,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-DeVon Rice,8400,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1507082,44095575,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Devon Dampier,8300,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1442304,44082667,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Hollywood Smothers,8200,RB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1443308,44095722,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Nathan Hayes,8000,QB,NDSU,NDSU @ AF,Night,,1407530,44082665,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Tavien St. Clair,8000,QB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1583919,44095723,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Steve Chavez-Soto,8000,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1586258,44095423,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Sam Huard,7900,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1286292,44082669,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Liam Szarka,7800,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1553757,44082671,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-AJ Hill,7800,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1584025,44095424,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-James Jones,7800,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516229,44095576,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Micah Alejado,7700,QB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509399,44082673,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Byrd Ficklin,7600,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582977,44082677,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Cam Coleman,7600,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1506067,44095724,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Cam Barfield,7600,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1404178,44095577,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Preston Brown,7500,QB,NDSU,NDSU @ AF,Night,,1600380,44082675,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Ryan Wingo,7400,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1506377,44095725,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Braden Pegan,7400,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1405422,44095425,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Adam Damante,7400,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1453347,44095578,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Evan Medders,7300,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1610253,44082679,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-LaMarcus Bell,7200,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1648191,44095426,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Tama Uiliata,7200,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509411,44095579,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Bjorn Jurgensen,7000,QB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1583196,44082681,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-King Miller,7000,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1538980,44082754,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Sutton Smith,7000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1400570,44095427,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Waymond Jordan,6800,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1587700,44082757,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Raleek Brown,6800,RB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1401098,44095726,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-TK King,6800,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1389629,44095580,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Wayshawn Parker,6700,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1506517,44082751,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-DJ Scott,6600,RB,NDSU,NDSU @ AF,Night,,1463828,44082760,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Braylen Russell,6600,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506059,44095428,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-KJ Jackson,6500,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506081,44082683,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Trent Mosley,6500,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651171,44082940,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Pofele Ashlock,6400,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1400528,44082943,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Devin McCuin,6400,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1460651,44095727,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Kyri Shoels,6400,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1519601,44095429,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-TJ Washington Jr.,6400,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1442761,44095581,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-DeVon Rice,6300,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1507082,44082763,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Steve Chavez-Soto,6200,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1586258,44082766,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Trey Hedden,6100,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1517362,44082685,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-AJ Hill,6000,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1584025,44082687,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Luke Dunham,6000,QB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1597666,44095728,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Luke Fahey,6000,QB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649755,44095729,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Justyn Martin,6000,QB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1384735,44095730,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Kolton Stover,6000,QB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1601189,44095731,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Brady Geibel,6000,QB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1595880,44095732,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-MJ Morris,6000,QB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1389726,44095733,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Dia Bell,6000,QB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1645901,44095734,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Ryan Niblett,6000,RB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1455743,44095735,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Kane Archer,6000,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1647842,44095430,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Braeden Fuller,6000,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1647519,44095431,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Brandon Rose,6000,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1381155,44095432,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Michael Johnson,6000,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1647844,44095433,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Nate Johnson,6000,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1400818,44095434,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Hank Hendrix,6000,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1651908,44095435,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Cade Trotter,6000,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1585770,44095436,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Parker Stofa,6000,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1531404,44095582,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Isaac Jaramilla-Phe,6000,QB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663652,44095583,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Hazyn Botelho,6000,QB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663673,44095584,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Kalani McLeod,6000,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1655560,44095585,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Trey Arnold,6000,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652657,44095586,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-James Jones,5900,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516229,44082769,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Lunch Winfield,5800,QB,ULL,ULL @ USC,Night,,1461891,44082689,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Darrell Smith,5800,RB,ULL,ULL @ USC,Night,,1586034,44082772,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Chris Marshall,5800,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1402693,44095437,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Dijon Stanley,5800,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1456803,44095587,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Cam Barfield,5700,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1404178,44082775,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Tanook Hines,5700,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1598540,44082946,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-LaMarcus Bell,5600,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1648191,44082778,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Braden Pegan,5600,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1405422,44082949,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Isaiah West,5600,RB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1583970,44095736,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Audric Harris,5600,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509121,44095588,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Adam Damante,5500,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1453347,44082691,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Sutton Smith,5400,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1400570,44082781,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Tama Uiliata,5400,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509411,44082952,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Daniel Bray,5400,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582980,44095438,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-TK King,5300,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1389629,44082955,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Daniel Beale,5200,QB,ULL,ULL @ USC,Night,,1523284,44082693,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Dillon Curtis,5200,K,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582978,44095439,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Tanner Cragun,5200,K,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1235641,44095440,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Sean Olvera-Harle,5200,K,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1598541,44095589,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Hudson Borsari,5200,K,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663671,44095590,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Braylen Russell,5000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506059,44082784,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Kyri Shoels,5000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1519601,44082958,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Spencer Barnett,5000,K,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1521564,44095737,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Gianni Spetic,5000,K,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1451401,44095738,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Jake Collett,5000,K,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1645957,44095739,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Larry Simmons,5000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1395989,44095441,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Sitani Mikaele,5000,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519580,44095591,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Owen Allen,4900,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520130,44082787,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Chris Marshall,4900,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1402693,44082961,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-TJ Washington Jr.,4800,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1442761,44082790,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Steven Blanco,4800,RB,ULL,ULL @ USC,Night,,1523288,44082793,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Mekhi Collins,4800,WR,NDSU,NDSU @ AF,Night,,1407558,44082964,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Marcello Diomede,4800,K,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1451508,44095740,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Cooper Peterson,4800,K,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1653721,44095741,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Connor Hawkins,4800,K,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1529144,44095742,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-AJ Williams III,4800,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1587725,44095592,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Deshonne Redeaux,4700,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651173,44082796,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Myles Mitchell,4700,RB,NDSU,NDSU @ AF,Night,,1600399,44082799,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Kayden Dixon-Wyatt,4700,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651200,44082967,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Rocco Conti,4600,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520153,44082802,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-KeDarius Wade,4600,WR,ULL,ULL @ USC,Night,,1461896,44082970,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Ja'Kobi Jackson,4600,RB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1456696,44095743,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Jasper Parker,4600,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1599295,44095442,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Ilya Uvaydov,4600,K,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1405245,44095593,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-David Barker,4600,K,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1584642,44095594,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Kyah Francone,4600,K,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1588849,44095595,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Kalani McLeod,4500,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1655560,44082695,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Parker Stofa,4500,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1531404,44082697,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Trey Arnold,4500,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652657,44082699,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Coleman Carter,4500,QB,ULL,ULL @ USC,Night,,1591800,44082701,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Sam Altmann,4500,QB,ULL,ULL @ USC,Night,,1523282,44082703,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Alex Munoz,4500,QB,ULL,ULL @ USC,Night,,1653186,44082705,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Jonas Williams,4500,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651176,44082707,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Alex Medyn,4500,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663651,44082709,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-James Johnson,4500,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663637,44082711,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Will Doherty,4500,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1653009,44082713,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Hank Hendrix,4500,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1651908,44082715,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Braeden Fuller,4500,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1647519,44082717,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Cade Trotter,4500,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1585770,44082719,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Josh Johnson,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520117,44082721,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Kemper Hodges,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520122,44082723,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Maguire Martin,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520119,44082725,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Cade Spradling,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652294,44082727,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Grady Kinsey,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1676734,44082729,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Howard Fisher,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1676701,44082731,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Hazyn Botelho,4500,QB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663673,44082733,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Isaac Jaramilla-Phe,4500,QB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663652,44082735,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Brandon Rose,4500,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1381155,44082737,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Nate Johnson,4500,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1400818,44082739,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Michael Johnson,4500,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1647844,44082741,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Kane Archer,4500,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1647842,44082743,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Trey Drake,4500,QB,NDSU,NDSU @ AF,Night,,1454354,44082745,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Henry Nelson,4500,QB,NDSU,NDSU @ AF,Night,,1661180,44082747,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Zander Smith,4500,QB,NDSU,NDSU @ AF,Night,,1600378,44082749,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Daniel Bray,4500,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582980,44082805,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Jackson Williams,4500,WR,NDSU,NDSU @ AF,Night,,1528215,44082973,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Dijon Stanley,4400,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1456803,44082808,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Larry Simmons,4400,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1395989,44082976,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Emmett Mosley V,4400,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1508236,44095744,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Braeden McAlister,4400,K,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1397377,44095443,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Max Gilbert,4400,K,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1443020,44095444,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Charlie Von Der Meden,4400,K,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514444,44095445,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Devin Alves,4400,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1380568,44095596,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-JJ Garner,4300,RB,ULL,ULL @ USC,Night,,1591804,44082811,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Jasper Parker,4300,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1599295,44082814,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Mark Bowman,4300,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651201,44082979,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Sitani Mikaele,4200,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519580,44082817,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Anthony Reagan Jr.,4200,RB,ULL,ULL @ USC,Night,,1528537,44082820,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Audric Harris,4200,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509121,44082982,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Legend Bey,4200,RB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649749,44095745,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Hunter Andrews,4200,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1507257,44095446,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Shahn Alston,4100,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651288,44082823,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Cam Settles,4100,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1582242,44082826,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Nyeoti Punni,4100,RB,NDSU,NDSU @ AF,Night,,1468788,44082829,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Riley Wormley,4100,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1586383,44082832,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Trenton Chaney,4100,WR,ULL,ULL @ USC,Night,,1591798,44082985,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Matt Long,4100,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586533,44082988,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Jalen Brown,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458941,44082835,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Isaiah Rudison,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458922,44082838,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Roscoe Burton,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1518320,44082841,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-David Barela,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1457692,44082844,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Xavier Rucker,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652655,44082847,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Ke'Rynn Smith,4000,RB,ULL,ULL @ USC,Night,,1653191,44082850,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Cian McKelvey,4000,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1538981,44082853,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Kayne Miller,4000,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663653,44082856,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Tyson Park,4000,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663656,44082859,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Markeylin Batton,4000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589448,44082862,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-TJ Hodges,4000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645617,44082865,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Mario Robinson,4000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1511165,44082868,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Kevin Young,4000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1651909,44082871,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Jalen Rashad Turner,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1519731,44082874,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Gage LaDue,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586540,44082877,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Travis Wood,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586536,44082880,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Omari Elias,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586547,44082883,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Chase Ferrell,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652305,44082886,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Oswaldo Morales,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652495,44082889,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Luke Rauh,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586539,44082892,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Price Davis,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652489,44082895,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-James Steffany-Fiame,4000,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663655,44082898,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Noah Bartley,4000,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663659,44082901,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-TJ Fo'ilefutu,4000,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651929,44082904,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Mateaki Helu,4000,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582981,44082907,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Anthony Hernandez,4000,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1532367,44082910,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Jojo Ward,4000,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1672544,44082913,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Brady Wavrunek,4000,RB,NDSU,NDSU @ AF,Night,,1454387,44082916,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Barry Kpeenu,4000,RB,NDSU,NDSU @ AF,Night,,1604379,44082919,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Cortez LeGrant,4000,RB,NDSU,NDSU @ AF,Night,,1452146,44082922,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Charles Ross III,4000,RB,NDSU,NDSU @ AF,Night,,1600398,44082925,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Gatlin Empey,4000,RB,NDSU,NDSU @ AF,Night,,1661189,44082928,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Jonathan Harvey,4000,RB,NDSU,NDSU @ AF,Night,,1470105,44082931,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Godson Rufus-Okomhanru,4000,RB,NDSU,NDSU @ AF,Night,,1661183,44082934,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Braylon Toliver,4000,RB,NDSU,NDSU @ AF,Night,,1652186,44082937,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Chris Kiel,4000,WR,NDSU,NDSU @ AF,Night,,1600390,44082991,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-AJ Williams III,4000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1587725,44082994,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Cam Settles,4000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1582242,44095447,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Terrione Graves,4000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1588985,44095597,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Caden Jensen,3900,WR,ULL,ULL @ USC,Night,,1461983,44082997,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Devin Alves,3900,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1380568,44083000,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Hunter Andrews,3900,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1507257,44083003,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Terrell Anderson,3800,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1508247,44083006,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Creed Whittemore,3800,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1441029,44083009,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Terrione Graves,3800,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1588985,44083012,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Brandon Inniss,3800,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1449306,44095746,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Ismael Cisse,3700,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1462690,44083015,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Jonah Dawson,3700,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586572,44083018,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Kainoa Carvalho,3700,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1596210,44083021,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Reis Kessel,3700,WR,NDSU,NDSU @ AF,Night,,1528237,44083024,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Noah Bennee,3600,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1381558,44083027,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Corey Simms,3600,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1586378,44083030,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Creed Whittemore,3600,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1441029,44095448,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Kainoa Carvalho,3600,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1596210,44095598,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Lyndon Ravare,3500,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1519675,44083033,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Zacharyus Williams,3500,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1519189,44083036,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-CJ Brown,3500,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506084,44083039,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Daidren Zipperer,3500,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1456805,44083042,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Isiah St. Romain,3400,WR,NDSU,NDSU @ AF,Night,,1528216,44083045,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Teddy Gawlik,3400,WR,ULL,ULL @ USC,Night,,1512789,44083048,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Jamari Hawkins,3400,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1400575,44083051,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Ricky Johnson,3400,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1520278,44083054,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Matt Adcock,3400,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1585803,44083057,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Ismael Cisse,3400,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1462690,44095449,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Jordan McCants,3300,WR,NDSU,NDSU @ AF,Night,,1406599,44083060,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-TJ Pride,3300,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516983,44083063,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Jaden Platt,3300,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1442956,44083066,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Jeremiah Patterson,3300,WR,NDSU,NDSU @ AF,Night,,1515830,44083069,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Blaze Kamoku,3300,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1513093,44083072,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Adam Hrynciw,3200,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520178,44083075,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Myles Libman,3200,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1462707,44083078,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Shelton Sampson Jr.,3200,WR,ULL,ULL @ USC,Night,,1441058,44083081,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Tron Baker,3200,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651330,44083084,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Simon Kibbee,3200,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520173,44083087,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Cade Osterman,3200,WR,NDSU,NDSU @ AF,Night,,1452168,44083090,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Ty Lockwood,3200,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1440901,44083093,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Nate Roberts,3200,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1583992,44095747,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Noah Bennee,3200,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1381558,44095450,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Lyndon Ravare,3200,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1519675,44095599,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Jerry Lydiatt,3100,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458949,44083096,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Josiah Thomas,3100,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1595600,44083099,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Brodie Malone-Bradford,3100,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1584646,44083102,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Rahji Dennis,3100,WR,ULL,ULL @ USC,Night,,1512785,44083105,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Taniela Tupou,3100,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1586390,44083108,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Ethan Feaster,3100,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663650,44083111,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Donovan Faupel,3100,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1457676,44083114,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Mason Hayes,3100,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586535,44083117,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Devon Tauaefa,3100,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1400527,44083120,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Carson Brown,3100,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1390931,44083123,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Tobias Merriweather,3100,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1403976,44083126,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Mana Carvalho,3100,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582991,44083129,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Kaden Zenzen,3100,WR,NDSU,NDSU @ AF,Night,,1407541,44083132,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Logan Conklin,3100,WR,NDSU,NDSU @ AF,Night,,1528248,44083135,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Carson Su'esu'e,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1593718,44083138,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Ray Lotten,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1456564,44083141,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Duke Frye,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1404413,44083144,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Luke Lopez,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652694,44083147,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Joshua Goines,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1448273,44083150,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Jayden Bell,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1457683,44083153,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Izeyah Wright,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516959,44083156,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-AJ Carey,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652693,44083159,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Kaden Trevino,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458936,44083162,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Josiah Castillo,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652695,44083165,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-JaDarius Sanders,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652692,44083168,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Jaylen Stokes,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652651,44083171,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Quandre Coates,3000,WR,ULL,ULL @ USC,Night,,1591819,44083174,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Emiliano Soldevilla,3000,WR,ULL,ULL @ USC,Night,,1461930,44083177,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Brock Chappell,3000,WR,ULL,ULL @ USC,Night,,1460849,44083180,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Khristian Mackintrush,3000,WR,ULL,ULL @ USC,Night,,1591814,44083183,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Aiden Falgout,3000,WR,ULL,ULL @ USC,Night,,1591809,44083186,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Jerry Birdlow,3000,WR,ULL,ULL @ USC,Night,,1653169,44083189,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Russell Babineaux,3000,WR,ULL,ULL @ USC,Night,,1591799,44083192,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Kristion Brooks,3000,WR,ULL,ULL @ USC,Night,,1653171,44083195,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Jaydon Johnson,3000,WR,ULL,ULL @ USC,Night,,1389143,44083198,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Landon Strother,3000,WR,ULL,ULL @ USC,Night,,1523287,44083201,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Landon Baptiste,3000,WR,ULL,ULL @ USC,Night,,1461900,44083204,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Ja'Corian Norris,3000,WR,ULL,ULL @ USC,Night,,1523286,44083207,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Owen Morris,3000,WR,ULL,ULL @ USC,Night,,1653197,44083210,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Jayden Lewis,3000,WR,ULL,ULL @ USC,Night,,1653196,44083213,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Carson Tabaracci,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1381140,44083216,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Walter Matthews,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1523006,44083219,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Tucker Ashcraft,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1461165,44083222,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Grant Woods,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663664,44083225,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Manoah Leiato,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663660,44083228,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Patrick O'Brien,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663638,44083231,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Fisher Melton,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1598546,44083234,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Josiah Jefferson,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1653008,44083237,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Roderick Tezeno,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663666,44083240,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Romero Ison,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1598550,44083243,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Griffin Brahm,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663669,44083246,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Cameron Sermons,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1598549,44083249,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Marcus Sung,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663639,44083252,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Luc Weaver,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651329,44083255,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Seth Zamora,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1523018,44083258,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Luke Degner,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663641,44083261,09/12/2026 11:00 PM,2026-09-12T23:29:50Z
-Gavin Garretson,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1582211,44083264,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Hutson Hendrix,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589449,44083267,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Breylen Gilbert,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1521340,44083270,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Maddox Lassiter,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1451010,44083273,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Braxton Scriber,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1595839,44083276,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Antonio Jordan,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589446,44083279,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Courtney Crutchfield,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514628,44083282,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Jelani Watkins,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506361,44083285,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Monte Harrison,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514443,44083288,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Dequane Prevo,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645633,44083291,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Blair Irvin III,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645636,44083294,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Cory Henderson Jr.,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1656026,44083297,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Jude Hall,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1653389,44083300,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Dai'Shaun Thomas,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514936,44083303,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Ben Pupplo,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1463606,44083306,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Mitchell Blakeslee,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520886,44083309,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Harry Caskey,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586543,44083312,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Dominic Henning,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652514,44083315,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Henry Barbisch,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652515,44083318,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Griffin Stalfort,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520164,44083321,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Grant Wayne,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520127,44083324,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Owen Chambers,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520128,44083327,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Mason Lowe,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1585826,44083330,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Keegan Sack,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652300,44083333,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Harris Vinson,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652488,44083336,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Sylas Maiava-Alaimalo,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1610252,44083339,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Major Quin,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652492,44083342,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Astin Hange,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586538,44083345,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Isaac Thomas,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652517,44083348,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Noah McNair,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652519,44083351,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Oakie Salave'a,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1381384,44083354,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Frank Abreu,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1584519,44083357,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Andrew Price,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663678,44083360,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Anthony Hickman,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1654085,44083363,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Micah Kaonohi-Kaihenui,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1442291,44083366,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Matthew Bailiff,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1456733,44083369,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Tre' Griffiths,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1507216,44083372,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Nick Delgadillo,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1456750,44083375,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Josiah Fetui,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519622,44083378,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Titan Lacaden,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1596199,44083381,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Koa Eldredge,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1441251,44083384,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Jarvis Heimuli,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519563,44083387,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Diezel Kamoku,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1530610,44083390,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Robert Haynes IV,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651933,44083393,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Dillon Booth,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651934,44083396,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Brandon Gaea,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651935,44083399,09/13/2026 12:00 AM,2026-09-12T23:29:50Z
-Semi Taulanga,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1592506,44083402,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Will Monney,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1443178,44083405,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Broderick Redden,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582992,44083408,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Kana'i Lopes,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1507265,44083411,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Bear Fisher,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1648313,44083414,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Teague Matthews,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1672541,44083417,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Sione Motuapuaka,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582989,44083420,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Bryson Baker,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1592501,44083423,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Peyton Rice,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1461615,44083426,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Max Ausmus,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1651373,44083429,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Matt Clark,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1519180,44083432,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Junior Coughlin,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582986,44083435,09/12/2026 10:15 PM,2026-09-12T23:29:50Z
-Jett Zabel,3000,WR,NDSU,NDSU @ AF,Night,,1528250,44083438,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Luke Kokat,3000,WR,NDSU,NDSU @ AF,Night,,1407543,44083441,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Isaac Ellison,3000,WR,NDSU,NDSU @ AF,Night,,1600478,44083444,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Cash Danner,3000,WR,NDSU,NDSU @ AF,Night,,1661188,44083447,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Abraham Myers,3000,WR,NDSU,NDSU @ AF,Night,,1454373,44083450,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Colten Gunderson,3000,WR,NDSU,NDSU @ AF,Night,,1661192,44083453,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Caden Ward,3000,WR,NDSU,NDSU @ AF,Night,,1652193,44083456,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Gabriel Cunningham,3000,WR,NDSU,NDSU @ AF,Night,,1600413,44083459,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Noah Nelson,3000,WR,NDSU,NDSU @ AF,Night,,1600514,44083462,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-John Gores,3000,WR,NDSU,NDSU @ AF,Night,,1407534,44083465,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Kelly Watson,3000,WR,NDSU,NDSU @ AF,Night,,1470108,44083468,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Jacob Kilzer,3000,WR,NDSU,NDSU @ AF,Night,,1514742,44083471,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Dylan Vokal,3000,WR,NDSU,NDSU @ AF,Night,,1600512,44083474,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Joaquin Jordan,3000,WR,NDSU,NDSU @ AF,Night,,1661184,44083477,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Drake Schlosser,3000,WR,NDSU,NDSU @ AF,Night,,1600386,44083480,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Brandon Walton,3000,WR,NDSU,NDSU @ AF,Night,,1663281,44083483,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Kye Schlichting,3000,WR,NDSU,NDSU @ AF,Night,,1661181,44083486,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Myles Ellis,3000,WR,NDSU,NDSU @ AF,Night,,1661201,44083489,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-SJ Green,3000,WR,NDSU,NDSU @ AF,Night,,1600510,44083492,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-Tochi Okoro,3000,WR,NDSU,NDSU @ AF,Night,,1663256,44083495,09/12/2026 10:00 PM,2026-09-12T23:29:50Z
-CJ Brown,3000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506084,44095451,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Sterling Berkhalter,2800,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1327232,44095748,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Daidren Zipperer,2800,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1456805,44095452,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Blaze Kamoku,2800,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1513093,44095600,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Emaree Winston,2600,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1582595,44095749,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Ricky Johnson,2600,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1520278,44095453,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-TJ Pride,2600,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516983,44095601,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Matt Adcock,2400,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1585803,44095454,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Jermaine Bishop Jr.,2200,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1645898,44095750,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Jamari Hawkins,2200,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1400575,44095455,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Myles Libman,2200,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1462707,44095602,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Brock Boyd,2000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649754,44095751,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Jaden Platt,2000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1442956,44095456,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Brodie Malone-Bradford,2000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1584646,44095603,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Nick Townsend,1800,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1597674,44095752,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Ty Lockwood,1800,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1440901,44095457,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Carson Brown,1800,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1390931,44095604,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Mason Williams,1600,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1451402,44095753,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Mana Carvalho,1600,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582991,44095458,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Devon Tauaefa,1600,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1400527,44095605,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Kaliq Lockett,1400,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1582499,44095754,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Donovan Faupel,1400,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1457676,44095459,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Josiah Thomas,1400,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1595600,44095606,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Michael Masunas,1200,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1400933,44095755,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Tobias Merriweather,1200,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1403976,44095460,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Jerry Lydiatt,1200,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458949,44095607,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Favour Akih,1000,RB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649774,44095756,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Jett Walker,1000,RB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1645948,44095757,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Stanley Jackson Jr.,1000,RB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1529919,44095758,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Anthony Rogers,1000,RB,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1601188,44095759,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-James Simon,1000,RB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1582524,44095760,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Chris Henry Jr.,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649756,44095761,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Carson Berger,1000,RB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1462696,44095762,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Derrek Cooper,1000,RB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1645899,44095763,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Michael Terry III,1000,RB,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1582508,44095764,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Hunter Welcing,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1214039,44095765,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Ty Boatright,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1455730,44095766,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Jerquaden Guilford,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649752,44095767,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Brennen Schramm,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1452648,44095768,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Frankie McAllister,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1653719,44095769,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Chris Stewart,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1645912,44095770,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-De'Zie Jones,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1583917,44095771,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Nolan Baudo,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1451075,44095772,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Kyle Parker,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1441027,44095773,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Spencer Shannon,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1455728,44095774,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Bennett Christian,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1379231,44095775,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Bryce Chambers,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1455722,44095776,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Ryan Seimetz,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1653717,44095777,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Brody Lennon,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1601202,44095778,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-David Adolph,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1398685,44095779,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Daylan McCutcheon,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1582518,44095780,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Phillip Bell,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1583914,44095781,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Will Randle,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1455729,44095782,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Charlie Jilek,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1645965,44095783,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Nick Lautar,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649794,44095784,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Maxence LeBlanc,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1519340,44095785,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Amari Valerio-Hudson,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649776,44095786,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Hudson Powell,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1537550,44095787,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Kohen Brown,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1645910,44095788,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Ridge Barker,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1521580,44095789,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Jaeden Ricketts,1000,WR,OSU,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7874.png,1649792,44095790,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Evan Enderlin,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1660945,44095791,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Rett Andersen,1000,WR,TEX,OSU @ TEX,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8240.png,1455721,44095792,09/12/2026 07:30 PM,2026-09-12T23:29:50Z
-Mateaki Helu,1000,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582981,44095461,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Jojo Ward,1000,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1672544,44095462,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-TJ Hodges,1000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645617,44095463,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Anthony Hernandez,1000,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1532367,44095464,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Kevin Young,1000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1651909,44095465,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Mario Robinson,1000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1511165,44095466,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Markeylin Batton,1000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589448,44095467,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Braxton Scriber,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1595839,44095468,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Hutson Hendrix,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589449,44095469,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Bryson Baker,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1592501,44095470,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Will Monney,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1443178,44095471,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Jude Hall,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1653389,44095472,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Bear Fisher,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1648313,44095473,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Sione Motuapuaka,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582989,44095474,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Courtney Crutchfield,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514628,44095475,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Ben Pupplo,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1463606,44095476,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Peyton Rice,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1461615,44095477,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Teague Matthews,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1672541,44095478,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Kana'i Lopes,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1507265,44095479,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Gavin Garretson,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1582211,44095480,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Jelani Watkins,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506361,44095481,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Antonio Jordan,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589446,44095482,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Cory Henderson Jr.,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1656026,44095483,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Semi Taulanga,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1592506,44095484,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Maddox Lassiter,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1451010,44095485,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Matt Clark,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1519180,44095486,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Monte Harrison,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514443,44095487,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Junior Coughlin,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582986,44095488,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Dequane Prevo,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645633,44095489,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Blair Irvin III,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645636,44095490,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Max Ausmus,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1651373,44095491,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Broderick Redden,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582992,44095492,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Breylen Gilbert,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1521340,44095493,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Dai'Shaun Thomas,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514936,44095494,09/12/2026 10:15 PM,2026-09-12T23:29:51Z
-Roscoe Burton,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1518320,44095608,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-James Steffany-Fiame,1000,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663655,44095609,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Jalen Brown,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458941,44095610,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Xavier Rucker,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652655,44095611,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Isaiah Rudison,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458922,44095612,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Noah Bartley,1000,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663659,44095613,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-David Barela,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1457692,44095614,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-TJ Fo'ilefutu,1000,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651929,44095615,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Nick Delgadillo,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1456750,44095616,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Koa Eldredge,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1441251,44095617,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Anthony Hickman,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1654085,44095618,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Frank Abreu,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1584519,44095619,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Andrew Price,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663678,44095620,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Matthew Bailiff,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1456733,44095621,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Jayden Bell,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1457683,44095622,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Jarvis Heimuli,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519563,44095623,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Dillon Booth,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651934,44095624,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Kaden Trevino,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458936,44095625,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Titan Lacaden,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1596199,44095626,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Joshua Goines,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1448273,44095627,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Josiah Castillo,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652695,44095628,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Duke Frye,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1404413,44095629,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Brandon Gaea,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651935,44095630,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Micah Kaonohi-Kaihenui,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1442291,44095631,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Diezel Kamoku,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1530610,44095632,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Luke Lopez,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652694,44095633,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Oakie Salave'a,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1381384,44095634,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Ray Lotten,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1456564,44095635,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Izeyah Wright,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516959,44095636,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Tre' Griffiths,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1507216,44095637,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-JaDarius Sanders,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652692,44095638,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Robert Haynes IV,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651933,44095639,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-AJ Carey,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652693,44095640,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Josiah Fetui,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519622,44095641,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Carson Su'esu'e,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1593718,44095642,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
-Jaylen Stokes,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652651,44095643,09/13/2026 12:00 AM,2026-09-12T23:29:51Z
+Devon Dampier,11800,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1442304,44095419,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Micah Alejado,11400,QB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509399,44095571,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Byrd Ficklin,9800,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582977,44095420,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+KJ Jackson,9400,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506081,44095421,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Bjorn Jurgensen,9400,QB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1583196,44095572,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jayden Maiava,9000,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1398514,44082663,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Trey Hedden,9000,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1517362,44095573,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Wayshawn Parker,8800,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1506517,44095422,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Pofele Ashlock,8600,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1400528,44095574,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+DeVon Rice,8400,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1507082,44095575,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Devon Dampier,8300,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1442304,44082667,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Nathan Hayes,8000,QB,NDSU,NDSU @ AF,Night,,1407530,44082665,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Steve Chavez-Soto,8000,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1586258,44095423,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Sam Huard,7900,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1286292,44082669,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Liam Szarka,7800,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1553757,44082671,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+AJ Hill,7800,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1584025,44095424,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+James Jones,7800,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516229,44095576,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Micah Alejado,7700,QB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509399,44082673,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Byrd Ficklin,7600,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582977,44082677,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Cam Barfield,7600,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1404178,44095577,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Preston Brown,7500,QB,NDSU,NDSU @ AF,Night,,1600380,44082675,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Braden Pegan,7400,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1405422,44095425,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Adam Damante,7400,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1453347,44095578,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Evan Medders,7300,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1610253,44082679,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+LaMarcus Bell,7200,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1648191,44095426,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Tama Uiliata,7200,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509411,44095579,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Bjorn Jurgensen,7000,QB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1583196,44082681,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+King Miller,7000,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1538980,44082754,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Sutton Smith,7000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1400570,44095427,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Waymond Jordan,6800,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1587700,44082757,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+TK King,6800,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1389629,44095580,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Wayshawn Parker,6700,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1506517,44082751,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+DJ Scott,6600,RB,NDSU,NDSU @ AF,Night,,1463828,44082760,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Braylen Russell,6600,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506059,44095428,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+KJ Jackson,6500,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506081,44082683,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Trent Mosley,6500,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651171,44082940,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Pofele Ashlock,6400,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1400528,44082943,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Kyri Shoels,6400,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1519601,44095429,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+TJ Washington Jr.,6400,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1442761,44095581,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+DeVon Rice,6300,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1507082,44082763,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Steve Chavez-Soto,6200,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1586258,44082766,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Trey Hedden,6100,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1517362,44082685,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+AJ Hill,6000,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1584025,44082687,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kane Archer,6000,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1647842,44095430,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Braeden Fuller,6000,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1647519,44095431,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Brandon Rose,6000,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1381155,44095432,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Michael Johnson,6000,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1647844,44095433,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Nate Johnson,6000,QB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1400818,44095434,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Hank Hendrix,6000,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1651908,44095435,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Cade Trotter,6000,QB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1585770,44095436,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Parker Stofa,6000,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1531404,44095582,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Isaac Jaramilla-Phe,6000,QB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663652,44095583,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Hazyn Botelho,6000,QB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663673,44095584,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Kalani McLeod,6000,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1655560,44095585,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Trey Arnold,6000,QB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652657,44095586,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+James Jones,5900,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516229,44082769,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Lunch Winfield,5800,QB,ULL,ULL @ USC,Night,,1461891,44082689,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Darrell Smith,5800,RB,ULL,ULL @ USC,Night,,1586034,44082772,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Chris Marshall,5800,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1402693,44095437,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Dijon Stanley,5800,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1456803,44095587,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Cam Barfield,5700,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1404178,44082775,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Tanook Hines,5700,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1598540,44082946,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+LaMarcus Bell,5600,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1648191,44082778,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Braden Pegan,5600,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1405422,44082949,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Audric Harris,5600,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509121,44095588,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Adam Damante,5500,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1453347,44082691,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Sutton Smith,5400,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1400570,44082781,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Tama Uiliata,5400,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509411,44082952,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Daniel Bray,5400,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582980,44095438,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+TK King,5300,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1389629,44082955,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Daniel Beale,5200,QB,ULL,ULL @ USC,Night,,1523284,44082693,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Dillon Curtis,5200,K,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582978,44095439,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Tanner Cragun,5200,K,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1235641,44095440,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Sean Olvera-Harle,5200,K,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1598541,44095589,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Hudson Borsari,5200,K,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663671,44095590,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Braylen Russell,5000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506059,44082784,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kyri Shoels,5000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1519601,44082958,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Larry Simmons,5000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1395989,44095441,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Sitani Mikaele,5000,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519580,44095591,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Owen Allen,4900,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520130,44082787,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Chris Marshall,4900,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1402693,44082961,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+TJ Washington Jr.,4800,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1442761,44082790,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Steven Blanco,4800,RB,ULL,ULL @ USC,Night,,1523288,44082793,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Mekhi Collins,4800,WR,NDSU,NDSU @ AF,Night,,1407558,44082964,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+AJ Williams III,4800,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1587725,44095592,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Deshonne Redeaux,4700,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651173,44082796,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Myles Mitchell,4700,RB,NDSU,NDSU @ AF,Night,,1600399,44082799,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Kayden Dixon-Wyatt,4700,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651200,44082967,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Rocco Conti,4600,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520153,44082802,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+KeDarius Wade,4600,WR,ULL,ULL @ USC,Night,,1461896,44082970,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Jasper Parker,4600,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1599295,44095442,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Ilya Uvaydov,4600,K,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1405245,44095593,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+David Barker,4600,K,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1584642,44095594,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Kyah Francone,4600,K,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1588849,44095595,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Kalani McLeod,4500,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1655560,44082695,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Parker Stofa,4500,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1531404,44082697,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Trey Arnold,4500,QB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652657,44082699,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Coleman Carter,4500,QB,ULL,ULL @ USC,Night,,1591800,44082701,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Sam Altmann,4500,QB,ULL,ULL @ USC,Night,,1523282,44082703,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Alex Munoz,4500,QB,ULL,ULL @ USC,Night,,1653186,44082705,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Jonas Williams,4500,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651176,44082707,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Alex Medyn,4500,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663651,44082709,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+James Johnson,4500,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663637,44082711,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Will Doherty,4500,QB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1653009,44082713,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Hank Hendrix,4500,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1651908,44082715,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Braeden Fuller,4500,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1647519,44082717,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Cade Trotter,4500,QB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1585770,44082719,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Josh Johnson,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520117,44082721,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Kemper Hodges,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520122,44082723,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Maguire Martin,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520119,44082725,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Cade Spradling,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652294,44082727,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Grady Kinsey,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1676734,44082729,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Howard Fisher,4500,QB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1676701,44082731,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Hazyn Botelho,4500,QB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663673,44082733,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Isaac Jaramilla-Phe,4500,QB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663652,44082735,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Brandon Rose,4500,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1381155,44082737,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Nate Johnson,4500,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1400818,44082739,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Michael Johnson,4500,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1647844,44082741,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kane Archer,4500,QB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1647842,44082743,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Trey Drake,4500,QB,NDSU,NDSU @ AF,Night,,1454354,44082745,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Henry Nelson,4500,QB,NDSU,NDSU @ AF,Night,,1661180,44082747,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Zander Smith,4500,QB,NDSU,NDSU @ AF,Night,,1600378,44082749,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Daniel Bray,4500,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582980,44082805,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jackson Williams,4500,WR,NDSU,NDSU @ AF,Night,,1528215,44082973,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Dijon Stanley,4400,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1456803,44082808,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Larry Simmons,4400,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1395989,44082976,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Braeden McAlister,4400,K,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1397377,44095443,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Max Gilbert,4400,K,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1443020,44095444,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Charlie Von Der Meden,4400,K,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514444,44095445,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Devin Alves,4400,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1380568,44095596,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+JJ Garner,4300,RB,ULL,ULL @ USC,Night,,1591804,44082811,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Jasper Parker,4300,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1599295,44082814,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Mark Bowman,4300,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651201,44082979,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Sitani Mikaele,4200,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519580,44082817,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Anthony Reagan Jr.,4200,RB,ULL,ULL @ USC,Night,,1528537,44082820,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Audric Harris,4200,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1509121,44082982,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Hunter Andrews,4200,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1507257,44095446,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Shahn Alston,4100,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651288,44082823,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Cam Settles,4100,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1582242,44082826,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Nyeoti Punni,4100,RB,NDSU,NDSU @ AF,Night,,1468788,44082829,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Riley Wormley,4100,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1586383,44082832,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Trenton Chaney,4100,WR,ULL,ULL @ USC,Night,,1591798,44082985,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Matt Long,4100,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586533,44082988,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Jalen Brown,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458941,44082835,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Isaiah Rudison,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458922,44082838,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Roscoe Burton,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1518320,44082841,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+David Barela,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1457692,44082844,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Xavier Rucker,4000,RB,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652655,44082847,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Ke'Rynn Smith,4000,RB,ULL,ULL @ USC,Night,,1653191,44082850,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Cian McKelvey,4000,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1538981,44082853,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Kayne Miller,4000,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663653,44082856,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Tyson Park,4000,RB,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663656,44082859,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Markeylin Batton,4000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589448,44082862,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+TJ Hodges,4000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645617,44082865,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Mario Robinson,4000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1511165,44082868,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kevin Young,4000,RB,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1651909,44082871,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jalen Rashad Turner,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1519731,44082874,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Gage LaDue,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586540,44082877,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Travis Wood,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586536,44082880,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Omari Elias,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586547,44082883,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Chase Ferrell,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652305,44082886,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Oswaldo Morales,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652495,44082889,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Luke Rauh,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586539,44082892,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Price Davis,4000,RB,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652489,44082895,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+James Steffany-Fiame,4000,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663655,44082898,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Noah Bartley,4000,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663659,44082901,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+TJ Fo'ilefutu,4000,RB,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651929,44082904,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Mateaki Helu,4000,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582981,44082907,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Anthony Hernandez,4000,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1532367,44082910,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jojo Ward,4000,RB,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1672544,44082913,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Brady Wavrunek,4000,RB,NDSU,NDSU @ AF,Night,,1454387,44082916,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Barry Kpeenu,4000,RB,NDSU,NDSU @ AF,Night,,1604379,44082919,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Cortez LeGrant,4000,RB,NDSU,NDSU @ AF,Night,,1452146,44082922,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Charles Ross III,4000,RB,NDSU,NDSU @ AF,Night,,1600398,44082925,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Gatlin Empey,4000,RB,NDSU,NDSU @ AF,Night,,1661189,44082928,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Jonathan Harvey,4000,RB,NDSU,NDSU @ AF,Night,,1470105,44082931,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Godson Rufus-Okomhanru,4000,RB,NDSU,NDSU @ AF,Night,,1661183,44082934,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Braylon Toliver,4000,RB,NDSU,NDSU @ AF,Night,,1652186,44082937,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Chris Kiel,4000,WR,NDSU,NDSU @ AF,Night,,1600390,44082991,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+AJ Williams III,4000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1587725,44082994,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Cam Settles,4000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1582242,44095447,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Terrione Graves,4000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1588985,44095597,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Caden Jensen,3900,WR,ULL,ULL @ USC,Night,,1461983,44082997,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Devin Alves,3900,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1380568,44083000,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Hunter Andrews,3900,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1507257,44083003,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Terrell Anderson,3800,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1508247,44083006,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Creed Whittemore,3800,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1441029,44083009,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Terrione Graves,3800,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1588985,44083012,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Ismael Cisse,3700,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1462690,44083015,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jonah Dawson,3700,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586572,44083018,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Kainoa Carvalho,3700,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1596210,44083021,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Reis Kessel,3700,WR,NDSU,NDSU @ AF,Night,,1528237,44083024,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Noah Bennee,3600,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1381558,44083027,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Corey Simms,3600,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1586378,44083030,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Creed Whittemore,3600,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1441029,44095448,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kainoa Carvalho,3600,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1596210,44095598,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Lyndon Ravare,3500,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1519675,44083033,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Zacharyus Williams,3500,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1519189,44083036,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+CJ Brown,3500,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506084,44083039,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Daidren Zipperer,3500,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1456805,44083042,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Isiah St. Romain,3400,WR,NDSU,NDSU @ AF,Night,,1528216,44083045,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Teddy Gawlik,3400,WR,ULL,ULL @ USC,Night,,1512789,44083048,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Jamari Hawkins,3400,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1400575,44083051,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Ricky Johnson,3400,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1520278,44083054,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Matt Adcock,3400,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1585803,44083057,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Ismael Cisse,3400,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1462690,44095449,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jordan McCants,3300,WR,NDSU,NDSU @ AF,Night,,1406599,44083060,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+TJ Pride,3300,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516983,44083063,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jaden Platt,3300,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1442956,44083066,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jeremiah Patterson,3300,WR,NDSU,NDSU @ AF,Night,,1515830,44083069,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Blaze Kamoku,3300,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1513093,44083072,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Adam Hrynciw,3200,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520178,44083075,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Myles Libman,3200,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1462707,44083078,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Shelton Sampson Jr.,3200,WR,ULL,ULL @ USC,Night,,1441058,44083081,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Tron Baker,3200,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651330,44083084,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Simon Kibbee,3200,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520173,44083087,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Cade Osterman,3200,WR,NDSU,NDSU @ AF,Night,,1452168,44083090,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Ty Lockwood,3200,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1440901,44083093,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Noah Bennee,3200,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1381558,44095450,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Lyndon Ravare,3200,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1519675,44095599,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jerry Lydiatt,3100,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458949,44083096,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Josiah Thomas,3100,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1595600,44083099,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Brodie Malone-Bradford,3100,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1584646,44083102,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Rahji Dennis,3100,WR,ULL,ULL @ USC,Night,,1512785,44083105,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Taniela Tupou,3100,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1586390,44083108,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Ethan Feaster,3100,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663650,44083111,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Donovan Faupel,3100,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1457676,44083114,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Mason Hayes,3100,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586535,44083117,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Devon Tauaefa,3100,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1400527,44083120,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Carson Brown,3100,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1390931,44083123,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Tobias Merriweather,3100,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1403976,44083126,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Mana Carvalho,3100,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582991,44083129,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kaden Zenzen,3100,WR,NDSU,NDSU @ AF,Night,,1407541,44083132,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Logan Conklin,3100,WR,NDSU,NDSU @ AF,Night,,1528248,44083135,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Carson Su'esu'e,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1593718,44083138,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Ray Lotten,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1456564,44083141,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Duke Frye,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1404413,44083144,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Luke Lopez,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652694,44083147,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Joshua Goines,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1448273,44083150,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jayden Bell,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1457683,44083153,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Izeyah Wright,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516959,44083156,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+AJ Carey,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652693,44083159,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Kaden Trevino,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458936,44083162,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Josiah Castillo,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652695,44083165,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+JaDarius Sanders,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652692,44083168,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jaylen Stokes,3000,WR,NMST,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652651,44083171,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Quandre Coates,3000,WR,ULL,ULL @ USC,Night,,1591819,44083174,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Emiliano Soldevilla,3000,WR,ULL,ULL @ USC,Night,,1461930,44083177,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Brock Chappell,3000,WR,ULL,ULL @ USC,Night,,1460849,44083180,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Khristian Mackintrush,3000,WR,ULL,ULL @ USC,Night,,1591814,44083183,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Aiden Falgout,3000,WR,ULL,ULL @ USC,Night,,1591809,44083186,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Jerry Birdlow,3000,WR,ULL,ULL @ USC,Night,,1653169,44083189,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Russell Babineaux,3000,WR,ULL,ULL @ USC,Night,,1591799,44083192,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Kristion Brooks,3000,WR,ULL,ULL @ USC,Night,,1653171,44083195,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Jaydon Johnson,3000,WR,ULL,ULL @ USC,Night,,1389143,44083198,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Landon Strother,3000,WR,ULL,ULL @ USC,Night,,1523287,44083201,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Landon Baptiste,3000,WR,ULL,ULL @ USC,Night,,1461900,44083204,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Ja'Corian Norris,3000,WR,ULL,ULL @ USC,Night,,1523286,44083207,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Owen Morris,3000,WR,ULL,ULL @ USC,Night,,1653197,44083210,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Jayden Lewis,3000,WR,ULL,ULL @ USC,Night,,1653196,44083213,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Carson Tabaracci,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1381140,44083216,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Walter Matthews,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1523006,44083219,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Tucker Ashcraft,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1461165,44083222,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Grant Woods,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663664,44083225,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Manoah Leiato,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663660,44083228,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Patrick O'Brien,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663638,44083231,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Fisher Melton,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1598546,44083234,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Josiah Jefferson,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1653008,44083237,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Roderick Tezeno,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663666,44083240,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Romero Ison,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1598550,44083243,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Griffin Brahm,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663669,44083246,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Cameron Sermons,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1598549,44083249,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Marcus Sung,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663639,44083252,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Luc Weaver,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1651329,44083255,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Seth Zamora,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1523018,44083258,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Luke Degner,3000,WR,USC,ULL @ USC,Night,https://dkn.gs/sports/images/cfb/teams/50/8080.png,1663641,44083261,09/12/2026 11:00 PM,2026-09-13T01:18:37Z
+Gavin Garretson,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1582211,44083264,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Hutson Hendrix,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589449,44083267,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Breylen Gilbert,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1521340,44083270,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Maddox Lassiter,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1451010,44083273,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Braxton Scriber,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1595839,44083276,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Antonio Jordan,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589446,44083279,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Courtney Crutchfield,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514628,44083282,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jelani Watkins,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506361,44083285,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Monte Harrison,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514443,44083288,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Dequane Prevo,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645633,44083291,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Blair Irvin III,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645636,44083294,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Cory Henderson Jr.,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1656026,44083297,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jude Hall,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1653389,44083300,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Dai'Shaun Thomas,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514936,44083303,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Ben Pupplo,3000,WR,ARK,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1463606,44083306,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Mitchell Blakeslee,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520886,44083309,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Harry Caskey,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586543,44083312,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Dominic Henning,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652514,44083315,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Henry Barbisch,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652515,44083318,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Griffin Stalfort,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520164,44083321,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Grant Wayne,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520127,44083324,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Owen Chambers,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1520128,44083327,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Mason Lowe,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1585826,44083330,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Keegan Sack,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652300,44083333,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Harris Vinson,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652488,44083336,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Sylas Maiava-Alaimalo,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1610252,44083339,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Major Quin,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652492,44083342,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Astin Hange,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1586538,44083345,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Isaac Thomas,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652517,44083348,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Noah McNair,3000,WR,AF,NDSU @ AF,Night,https://dkn.gs/sports/images/cfb/teams/50/8274.png,1652519,44083351,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Oakie Salave'a,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1381384,44083354,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Frank Abreu,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1584519,44083357,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Andrew Price,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663678,44083360,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Anthony Hickman,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1654085,44083363,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Micah Kaonohi-Kaihenui,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1442291,44083366,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Matthew Bailiff,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1456733,44083369,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Tre' Griffiths,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1507216,44083372,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Nick Delgadillo,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1456750,44083375,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Josiah Fetui,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519622,44083378,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Titan Lacaden,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1596199,44083381,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Koa Eldredge,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1441251,44083384,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jarvis Heimuli,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519563,44083387,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Diezel Kamoku,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1530610,44083390,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Robert Haynes IV,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651933,44083393,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Dillon Booth,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651934,44083396,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Brandon Gaea,3000,WR,HAW,NMST @ HAW,Night,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651935,44083399,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Semi Taulanga,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1592506,44083402,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Will Monney,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1443178,44083405,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Broderick Redden,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582992,44083408,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kana'i Lopes,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1507265,44083411,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Bear Fisher,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1648313,44083414,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Teague Matthews,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1672541,44083417,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Sione Motuapuaka,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582989,44083420,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Bryson Baker,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1592501,44083423,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Peyton Rice,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1461615,44083426,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Max Ausmus,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1651373,44083429,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Matt Clark,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1519180,44083432,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Junior Coughlin,3000,WR,UTAH,ARK @ UTAH,Night,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582986,44083435,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jett Zabel,3000,WR,NDSU,NDSU @ AF,Night,,1528250,44083438,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Luke Kokat,3000,WR,NDSU,NDSU @ AF,Night,,1407543,44083441,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Isaac Ellison,3000,WR,NDSU,NDSU @ AF,Night,,1600478,44083444,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Cash Danner,3000,WR,NDSU,NDSU @ AF,Night,,1661188,44083447,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Abraham Myers,3000,WR,NDSU,NDSU @ AF,Night,,1454373,44083450,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Colten Gunderson,3000,WR,NDSU,NDSU @ AF,Night,,1661192,44083453,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Caden Ward,3000,WR,NDSU,NDSU @ AF,Night,,1652193,44083456,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Gabriel Cunningham,3000,WR,NDSU,NDSU @ AF,Night,,1600413,44083459,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Noah Nelson,3000,WR,NDSU,NDSU @ AF,Night,,1600514,44083462,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+John Gores,3000,WR,NDSU,NDSU @ AF,Night,,1407534,44083465,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Kelly Watson,3000,WR,NDSU,NDSU @ AF,Night,,1470108,44083468,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Jacob Kilzer,3000,WR,NDSU,NDSU @ AF,Night,,1514742,44083471,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Dylan Vokal,3000,WR,NDSU,NDSU @ AF,Night,,1600512,44083474,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Joaquin Jordan,3000,WR,NDSU,NDSU @ AF,Night,,1661184,44083477,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Drake Schlosser,3000,WR,NDSU,NDSU @ AF,Night,,1600386,44083480,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Brandon Walton,3000,WR,NDSU,NDSU @ AF,Night,,1663281,44083483,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Kye Schlichting,3000,WR,NDSU,NDSU @ AF,Night,,1661181,44083486,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Myles Ellis,3000,WR,NDSU,NDSU @ AF,Night,,1661201,44083489,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+SJ Green,3000,WR,NDSU,NDSU @ AF,Night,,1600510,44083492,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+Tochi Okoro,3000,WR,NDSU,NDSU @ AF,Night,,1663256,44083495,09/12/2026 10:00 PM,2026-09-13T01:18:37Z
+CJ Brown,3000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506084,44095451,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Daidren Zipperer,2800,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1456805,44095452,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Blaze Kamoku,2800,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1513093,44095600,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Ricky Johnson,2600,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1520278,44095453,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+TJ Pride,2600,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516983,44095601,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Matt Adcock,2400,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1585803,44095454,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jamari Hawkins,2200,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1400575,44095455,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Myles Libman,2200,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1462707,44095602,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jaden Platt,2000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1442956,44095456,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Brodie Malone-Bradford,2000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1584646,44095603,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Ty Lockwood,1800,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1440901,44095457,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Carson Brown,1800,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1390931,44095604,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Mana Carvalho,1600,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582991,44095458,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Devon Tauaefa,1600,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1400527,44095605,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Donovan Faupel,1400,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1457676,44095459,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Josiah Thomas,1400,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1595600,44095606,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Tobias Merriweather,1200,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1403976,44095460,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jerry Lydiatt,1200,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458949,44095607,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Mateaki Helu,1000,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582981,44095461,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jojo Ward,1000,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1672544,44095462,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+TJ Hodges,1000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645617,44095463,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Anthony Hernandez,1000,RB,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1532367,44095464,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kevin Young,1000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1651909,44095465,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Mario Robinson,1000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1511165,44095466,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Markeylin Batton,1000,RB,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589448,44095467,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Braxton Scriber,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1595839,44095468,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Hutson Hendrix,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589449,44095469,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Bryson Baker,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1592501,44095470,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Will Monney,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1443178,44095471,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jude Hall,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1653389,44095472,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Bear Fisher,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1648313,44095473,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Sione Motuapuaka,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582989,44095474,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Courtney Crutchfield,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514628,44095475,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Ben Pupplo,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1463606,44095476,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Peyton Rice,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1461615,44095477,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Teague Matthews,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1672541,44095478,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Kana'i Lopes,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1507265,44095479,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Gavin Garretson,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1582211,44095480,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Jelani Watkins,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1506361,44095481,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Antonio Jordan,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1589446,44095482,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Cory Henderson Jr.,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1656026,44095483,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Semi Taulanga,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1592506,44095484,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Maddox Lassiter,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1451010,44095485,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Matt Clark,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1519180,44095486,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Monte Harrison,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514443,44095487,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Junior Coughlin,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582986,44095488,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Dequane Prevo,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645633,44095489,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Blair Irvin III,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1645636,44095490,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Max Ausmus,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1651373,44095491,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Broderick Redden,1000,WR,UTAH,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8341.png,1582992,44095492,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Breylen Gilbert,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1521340,44095493,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Dai'Shaun Thomas,1000,WR,ARK,ARK @ UTAH,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8175.png,1514936,44095494,09/12/2026 10:15 PM,2026-09-13T01:18:37Z
+Roscoe Burton,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1518320,44095608,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+James Steffany-Fiame,1000,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663655,44095609,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jalen Brown,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458941,44095610,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Xavier Rucker,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652655,44095611,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Isaiah Rudison,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458922,44095612,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Noah Bartley,1000,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663659,44095613,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+David Barela,1000,RB,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1457692,44095614,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+TJ Fo'ilefutu,1000,RB,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651929,44095615,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Nick Delgadillo,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1456750,44095616,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Koa Eldredge,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1441251,44095617,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Anthony Hickman,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1654085,44095618,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Frank Abreu,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1584519,44095619,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Andrew Price,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1663678,44095620,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Matthew Bailiff,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1456733,44095621,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jayden Bell,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1457683,44095622,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jarvis Heimuli,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519563,44095623,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Dillon Booth,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651934,44095624,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Kaden Trevino,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1458936,44095625,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Titan Lacaden,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1596199,44095626,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Joshua Goines,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1448273,44095627,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Josiah Castillo,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652695,44095628,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Duke Frye,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1404413,44095629,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Brandon Gaea,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651935,44095630,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Micah Kaonohi-Kaihenui,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1442291,44095631,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Diezel Kamoku,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1530610,44095632,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Luke Lopez,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652694,44095633,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Oakie Salave'a,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1381384,44095634,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Ray Lotten,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1456564,44095635,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Izeyah Wright,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1516959,44095636,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Tre' Griffiths,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1507216,44095637,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+JaDarius Sanders,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652692,44095638,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Robert Haynes IV,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1651933,44095639,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+AJ Carey,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652693,44095640,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Josiah Fetui,1000,WR,HAW,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/8316.png,1519622,44095641,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Carson Su'esu'e,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1593718,44095642,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
+Jaylen Stokes,1000,WR,NMST,NMST @ HAW,Showdown Captain Mode,https://dkn.gs/sports/images/cfb/teams/50/7946.png,1652651,44095643,09/13/2026 12:00 AM,2026-09-13T01:18:37Z
